@@ -1,1 +1,61 @@
-../../../../.git/annex/objects/Qf/v2/MD5E-s3891--ec8e38b8b88485d8a98efff630843a4d/MD5E-s3891--ec8e38b8b88485d8a98efff630843a4d
+Warning: Permanently added 'c150-151' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c150-162' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c150-193' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c151-013' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c154-011' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c155-054' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c155-104' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c155-114' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c155-211' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c162-024' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c162-133' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c168-201' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c169-111' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c170-051' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c170-073' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c171-023' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c171-052' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c172-111' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c173-081' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c173-083' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c173-132' (ED25519) to the list of known hosts.
+WARNING (03/05/22 17:34:34): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4120583.hostlist.vtVXf2Mm to get hosts
+starting job on c150-151
+starting job on c150-162
+starting job on c150-193
+starting job on c150-214
+starting job on c151-013
+starting job on c151-082
+starting job on c151-122
+starting job on c154-011
+starting job on c155-054
+starting job on c155-104
+starting job on c155-114
+starting job on c155-211
+starting job on c162-024
+starting job on c162-133
+starting job on c162-154
+starting job on c168-201
+starting job on c169-111
+starting job on c170-051
+starting job on c170-073
+starting job on c171-023
+starting job on c171-052
+starting job on c172-111
+starting job on c173-081
+starting job on c173-083
+starting job on c173-132
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+Terminated

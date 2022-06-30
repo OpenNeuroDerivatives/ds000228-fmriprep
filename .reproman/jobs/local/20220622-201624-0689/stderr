@@ -1,1 +1,8 @@
-../../../../.git/annex/objects/9V/xZ/MD5E-s343--8c029d9a5822cfe68f64d0e5fa368fda/MD5E-s343--8c029d9a5822cfe68f64d0e5fa368fda
+WARNING (06/22/22 23:30:39): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4521443.hostlist.U4X2GFTU to get hosts
+starting job on c186-162
+starting job on c187-022
+starting job on c187-134
+starting job on c189-134
+slurmstepd: error: *** JOB 4521443 ON c186-162 CANCELLED AT 2022-06-23T06:53:45 ***
+Terminated
