@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/fx/k6/MD5E-s590795--0cb3e2c0e26946cccd1dedeada5ec352.K/MD5E-s590795--0cb3e2c0e26946cccd1dedeada5ec352.K
